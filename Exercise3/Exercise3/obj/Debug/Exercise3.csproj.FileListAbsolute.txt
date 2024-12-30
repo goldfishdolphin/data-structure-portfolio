@@ -1,0 +1,7 @@
+C:\Users\naure\Documents\DSA\Exercise3\Exercise3\bin\Debug\Exercise3.exe.config
+C:\Users\naure\Documents\DSA\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+C:\Users\naure\Documents\DSA\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+C:\Users\naure\Documents\DSA\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.AssemblyReference.cache
+C:\Users\naure\Documents\DSA\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\naure\Documents\DSA\Exercise3\Exercise3\obj\Debug\Exercise3.exe
+C:\Users\naure\Documents\DSA\Exercise3\Exercise3\obj\Debug\Exercise3.pdb
