@@ -1,6 +1,6 @@
 # data-structure-portfolio
 
-## Exercise 1 - Creating Customrers' Queue
+## Exercise 1 - Customrers' Queue
 Create a windows form application in Visual Studio for C# (.NET framework). Implement a class Customer that contains name, age, address and amountOwed in pounds sterling of the student (assume the name and address are string, age is int and amountOwed is a float, remember 5.99f  represents a float value).  Customer class should also implement appropriate properties (get / set methods) in the class Customer.  
 
 Also add in the class Customer a method, GetInformation()
